@@ -4,6 +4,8 @@ import re
 
 # Styles and scripting for the page
 main_page_head = '''
+<!DOCTYPE html>
+<html>
 <head>
     <meta charset="utf-8">
     <title>Fresh Tomatoes!</title>
@@ -16,6 +18,7 @@ main_page_head = '''
     <style type="text/css" media="screen">
         body {
             padding-top: 80px;
+            background-color: #fff9f3; 
         }
         #trailer .modal-dialog {
             margin-top: 200px;
