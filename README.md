@@ -1,4 +1,4 @@
-# udacity_py_movie_list
+# udacity_py_movie_list: from Udacity's "Fresh Tomatoes" Webpage Prompt
 A simple python project that generates a Bootstrap Style static html page with a list of predefined movies and their trailers on https://www.youtube.com 
 
 To use: clone and directly access the html page at: fresh_tomatoes.html
