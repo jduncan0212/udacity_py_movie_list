@@ -84,6 +84,7 @@ main_page_head = '''
           })
         });'''
 
+#function to iterate over
 rendered_scripts = '''$(document).ready(function(){    
             $(movie_name).mouseout(function () {
                             //alert('Works!');
